@@ -1,5 +1,5 @@
 # Framingham-Heart-Study
-In this case study I'm performing exploratory analysis and visualization of the Framingham-Heart-Study Dataset
+In this Case Study I'm performing Exploratory Analysis & Visualization of the Framingham-Heart-Study Dataset. My main objective with this work is to understand the trends of Systolic Blood Pressure levels. The Systolic Blood Pressure, measures the pressure in your arteries when your heart beats
 
 # Motivation
 The Framingham Heart Study is a long term prospective study of the etiology of cardiovascular disease among a population of free living subjects in the community of Framingham, Massachusetts. The Framingham Heart Study was a landmark study in epidemiology in that it was the first prospective study of cardiovascular disease and identified the concept of risk factors and their joint effects FHS Longitudinal Data Document.
