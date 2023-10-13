@@ -2,13 +2,13 @@
 In this case study I'm performing exploratory analysis and visualization of the Framingham-Heart-Study Dataset
 
 # Motivation
-The Framingham Heart Study dataset is an unparalleled source of information on cardiovascular health. By exploring it, scientists have the opportunity to identify patterns, risk factors and trends that can save lives. Each analysis is a step forward in the fight against heart disease, providing concrete insights to improve global health. This data set represents an invaluable opportunity to drive research that transforms the prevention and treatment of heart disease, positively impacting the lives of millions of people around the world.
+The Framingham Heart Study is a long term prospective study of the etiology of cardiovascular disease among a population of free living subjects in the community of Framingham, Massachusetts. The Framingham Heart Study was a landmark study in epidemiology in that it was the first prospective study of cardiovascular disease and identified the concept of risk factors and their joint effects FHS Longitudinal Data Document.
 
 # Soruce 
 https://biolincc.nhlbi.nih.gov/teaching/
 
 # Description of the Dataset
-The Framingham Heart Study is a long term prospective study of the etiology of cardiovascular disease among a population of free living subjects in the community of Framingham, Massachusetts. The Framingham Heart Study was a landmark study in epidemiology in that it was the first prospective study of cardiovascular disease and identified the concept of risk factors and their joint effects FHS Longitudinal Data Document.
+The Framingham Heart Study dataset is an unparalleled source of information on cardiovascular health. By exploring it, scientists have the opportunity to identify patterns, risk factors and trends that can save lives. Each analysis is a step forward in the fight against heart disease, providing concrete insights to improve global health. This data set represents an invaluable opportunity to drive research that transforms the prevention and treatment of heart disease, positively impacting the lives of millions of people around the world.
 
 The dataset is a rather small subset of possible FHS dataset, having 4240 observations and 16 variables. The variables are as follows:
 
