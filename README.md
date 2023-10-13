@@ -1,10 +1,8 @@
 # Framingham-Heart-Study
-In this Case Study I'm performing Exploratory Analysis &amp; Visualization of the Framingham-Heart-Study Dataset
+In this case study I'm performing exploratory analysis and visualization of the Framingham-Heart-Study Dataset
 
 # Motivation
-The Reason behind choosing this model is my Personal Interest to explore various Domains out there.
-I want to investigate how Machine Learning can help Healthcare industries to become Data-Driven. Where, ML can predict the likelihood of subject to suffer from a particular disease. Thereby, respective actions in the form of Treatments or Preventive Measures would be brought into consideration on the Individual.
-However, this Statistical models are not prepared to use for production environment.
+The Framingham Heart Study dataset is an unparalleled source of information on cardiovascular health. By exploring it, scientists have the opportunity to identify patterns, risk factors and trends that can save lives. Each analysis is a step forward in the fight against heart disease, providing concrete insights to improve global health. This data set represents an invaluable opportunity to drive research that transforms the prevention and treatment of heart disease, positively impacting the lives of millions of people around the world.
 
 # Soruce 
 https://biolincc.nhlbi.nih.gov/teaching/
